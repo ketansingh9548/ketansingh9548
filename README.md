@@ -128,7 +128,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ketan-singh-41549b335/">
+<a href="https://www.linkedin.com/in/ketan-singh-41549b335/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
