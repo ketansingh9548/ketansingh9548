@@ -70,9 +70,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ketansingh9548&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ketansingh9548&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketansingh9548&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketansingh9548&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </p>
 
@@ -82,7 +82,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ketansingh9548&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ketansingh9548&theme=tokyonight&hide_border=true&background=0d1117"/>
 
 </p>
 
@@ -92,7 +92,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketansingh9548&theme=tokyo-night"/>
+<img src="https://github-activity-graph.vercel.app/graph?username=ketansingh9548&theme=tokyo-night"/>
 
 </p>
 
@@ -102,7 +102,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ketansingh9548&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ketansingh9548&theme=tokyonight&row=1&column=7&no-bg=true"/>
 
 </p>
 
