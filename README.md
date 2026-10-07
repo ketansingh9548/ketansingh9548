@@ -98,6 +98,17 @@
 
 ---
 
+# 🏆 Special Achievement
+
+<div align="center">
+
+> ### 🌟 **Winner in GitHub Competition**
+> 🎁 **Prize:** LinkedIn 1-Year Free Subscription
+
+</div>
+
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
