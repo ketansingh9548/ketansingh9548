@@ -132,14 +132,12 @@
 <p align="center">
 
 
+  
+  <!-- Is line mein APKE_PORTFOLIO_KA_LINK ki jagah apne portfolio ka link dalein -->
   <a href="https://ketan-cybersecurity-portfolio--ketan956858.replit.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=🌐+Click+Here+To+Visit+My+Portfolio" alt="Portfolio Link"/>
+    <!-- Yeh line ek clean aur modern "My Website" icon dikhayegi -->
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="Portfolio" height="64" width="64"/>
   </a>
-
-
-<a href="https://github.com/ketansingh9548">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
 
 <a href="https://www.linkedin.com/in/ketan-singh-41549b335/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
