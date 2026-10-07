@@ -52,11 +52,7 @@
 
 ✅ 100+ Python Projects
 
-✅ Master Linux
-
 ✅ Master Git & GitHub
-
-✅ Learn Web Penetration Testing
 
 ✅ Complete CCNA
 
@@ -134,6 +130,12 @@
 # 🌍 Connect With Me
 
 <p align="center">
+
+
+  <a href="https://ketan-cybersecurity-portfolio--ketan956858.replit.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=🌐+Click+Here+To+Visit+My+Portfolio" alt="Portfolio Link"/>
+  </a>
+
 
 <a href="https://github.com/ketansingh9548">
 <img src="https://skillicons.dev/icons?i=github"/>
